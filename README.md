@@ -21,6 +21,13 @@ This program uses an inode table to keep track of the blocks that files occupy s
 This project was created in order to better understand the complexities and design considerations of file systems, and to understand how virtual file systems allow custom implementations to inferface with the kernel.
 
 
+## Technologies
+
+* Ubuntu - used for development
+* FUSE - interface with the virtual file system
+* C - used to implement the file system operations
+
+
 ## Liscense
  
 Portions of this code were provided by CS3650 at Northeastern University.
