@@ -1,6 +1,6 @@
 # Simple File System
 
-A rudimentary implementation of a file system that interacts with the fuse interface, supporting creating, reading, writing, removing, and getting a small number of attributes from files and directories.
+A rudimentary implementation of a file system that interacts with the fuse interface, supporting creating, reading, writing, removing, and getting a small number of attributes from files.
 
 
 ## Usage
